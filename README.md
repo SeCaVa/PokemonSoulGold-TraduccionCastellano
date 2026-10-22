@@ -8,8 +8,8 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.1**), en desarrollo. Revisado en emulador: intro, elección de personaje, teclado de
-nombres, menú, Mochila, Opciones, guardar y textos de combate.
+Versión de prueba (**v0.2**), en desarrollo. Revisado en emulador: intro, elección de personaje, teclado de
+nombres, menú, Mochila, Opciones, Guía, guardar y textos de combate.
 
 Puede haber frases que no encajen bien con su contexto, textos cortados o algún resto en inglés. Si encuentras
 alguno, abre un *issue* con una captura.
@@ -51,12 +51,21 @@ oficiales.
 
    | Dato | Valor |
    |---|---|
-   | CRC32 | `0EBE7A95` |
-   | SHA-1 | `904de82c23e45256fd6a75e5113d3854fb5409a1` |
+   | CRC32 | `6536BF32` |
+   | SHA-1 | `df3f2ba3a3672f64ced34c3b57f0fd65aa9cb39d` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**22-oct-2026 (v0.2)**
+- Traducidos diálogos que seguían en inglés (Eusine, Lance, Plata, Giovanni, Pokégear, aviso de medallas…),
+  llamadas del Pokégear, menús de listas y la pantalla Guía (códigos QR).
+- Plurales correctos de todos los objetos y clase «Entrenadora» para las entrenadoras.
+- Nombres oficiales más recientes de movimientos en tablas y diálogos (sin restos de Gen 3) y nombres de
+  entrenador de Oro HeartGold y Plata SoulSilver.
+- Descripciones de objetos y habilidades que se salían del cuadro, mayúsculas, signos ¡¿ y tildes actuales
+  («solo», «ese»).
 
 **22-oct-2026 (v0.1)**
 - Primera versión de prueba.
