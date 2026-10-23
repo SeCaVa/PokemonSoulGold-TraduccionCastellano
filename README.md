@@ -3,12 +3,12 @@
 Traducción no oficial al **castellano de España** de *Pokémon SoulGold*, el hack de GBA que rehace Johto y Kanto
 al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
-> Este repositorio **no contiene ninguna ROM**. Solo el parche en formato BPS: necesitas tu propia copia de
-> Pokémon Esmeralda (USA) y el parche original de SoulGold v1.2.
+> Este repositorio **no contiene ninguna ROM**. El parche BPS está en la página de la versión: necesitas tu propia
+> copia de Pokémon Esmeralda (USA). No hace falta el parche original de SoulGold.
 
 ## Estado
 
-Versión de prueba (**v0.2**), en desarrollo. Revisado en emulador: intro, elección de personaje, teclado de
+Versión de prueba (**v0.3**), en desarrollo. Revisado en emulador: intro, elección de personaje, teclado de
 nombres, menú, Mochila, Opciones, Guía, guardar y textos de combate.
 
 Puede haber frases que no encajen bien con su contexto, textos cortados o algún resto en inglés. Si encuentras
@@ -37,26 +37,24 @@ oficiales.
    | CRC32 | `1F1C08FB` |
    | SHA-1 | `f3ae088181bf583e55daf962a92bb46f4f1d07b7` |
 
-2. Aplícale el parche original **SoulGold v1.2** (`pokemon-soulgold-v1.2.bps`). El resultado es la ROM en inglés:
+2. Descarga `Pokemon-SoulGold-Castellano.bps` de la [última versión](../../releases/latest) y aplícalo
+   **directamente** sobre esa ROM con [Floating IPS](https://github.com/Alcaro/Flips),
+   [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) o cualquier otra herramienta compatible con BPS.
+   No apliques antes el parche de SoulGold en inglés.
+3. El resultado es la ROM en castellano:
 
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `6ABC86CF` |
-   | SHA-1 | `5d6a036260fdbde96f85b5c1b92d0256d3aebafb` |
-
-3. Aplica sobre esa ROM `Pokemon-SoulGold-Castellano.bps` con [Floating IPS](https://github.com/Alcaro/Flips),
-   [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) o cualquier otra herramienta compatible con BPS.
-4. El resultado es la ROM en castellano:
-
-   | Dato | Valor |
-   |---|---|
-   | CRC32 | `6536BF32` |
-   | SHA-1 | `df3f2ba3a3672f64ced34c3b57f0fd65aa9cb39d` |
+   | CRC32 | `70B1583B` |
+   | SHA-1 | `4236ff8331b6db21578d241f44c83524408790fb` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**23-oct-2026 (v0.3)**
+- El parche se aplica directamente sobre Pokémon Esmeralda (USA), sin el parche de SoulGold en inglés.
 
 **22-oct-2026 (v0.2)**
 - Traducidos diálogos que seguían en inglés (Eusine, Lance, Plata, Giovanni, Pokégear, aviso de medallas…),
