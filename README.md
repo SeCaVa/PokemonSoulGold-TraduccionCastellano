@@ -8,8 +8,8 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.3**), en desarrollo. Revisado en emulador: intro, elección de personaje, teclado de
-nombres, menú, Mochila, Opciones, Guía, guardar y textos de combate.
+Versión de prueba (**v0.4**), en desarrollo. Revisado en emulador: pantalla de inicio, intro, elección de
+personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, Guía, guardar y textos de combate.
 
 Puede haber frases que no encajen bien con su contexto, textos cortados o algún resto en inglés. Si encuentras
 alguno, abre un *issue* con una captura.
@@ -46,12 +46,23 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `70B1583B` |
-   | SHA-1 | `4236ff8331b6db21578d241f44c83524408790fb` |
+   | CRC32 | `95F666DB` |
+   | SHA-1 | `1928342f00ce799d4a06a9eda917727dc183b2c6` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**23-oct-2026 (v0.4)**
+- Pantalla de inicio traducida: aviso del arranque y «PULSA START».
+- Ficha de Entrenador y medallas redibujadas en castellano, y «Mapa» en el Pokégear.
+- Traducidos los textos que seguían en inglés: unos 110 diálogos de scripts (Plata en el laboratorio de Elm…),
+  descripciones de movimientos, entradas de la Pokédex, habilidades, mensajes del Pokémon compañero y de combate.
+- Palabras del Easy Chat con la lista oficial de Pokémon Esmeralda.
+- Pantalla de opciones: valores alineados en todas las filas, «Compañero» en lugar de «Seguidores» y ayudas que ya
+  no se salen de la ventana.
+- Los dos puntos («:») quedan a la altura correcta en todas las fuentes.
+- Siglas (GBA, S.S. Anne, K.O.), mayúsculas y frases que no cabían en su cuadro.
 
 **23-oct-2026 (v0.3)**
 - El parche se aplica directamente sobre Pokémon Esmeralda (USA), sin el parche de SoulGold en inglés.
