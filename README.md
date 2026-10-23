@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.4**), en desarrollo. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.5**), en desarrollo. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, Guía, guardar y textos de combate.
 
 Puede haber frases que no encajen bien con su contexto, textos cortados o algún resto en inglés. Si encuentras
@@ -46,12 +46,15 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `95F666DB` |
-   | SHA-1 | `1928342f00ce799d4a06a9eda917727dc183b2c6` |
+   | CRC32 | `DD7410C8` |
+   | SHA-1 | `ef64ff6cfa33cd377c211cdc07cd97ab3e9aada7` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**24-oct-2026 (v0.5)**
+- Cabecera del teclado de motes corregida: ahora pone «¿Mote de Sprigatito?».
 
 **23-oct-2026 (v0.4)**
 - Pantalla de inicio traducida: aviso del arranque y «PULSA START».
