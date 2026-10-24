@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.6**), en desarrollo. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.6.1**), en desarrollo. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -47,12 +47,16 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `0D330D41` |
-   | SHA-1 | `1bf6a078c21f1985b622c22553aea70efe666b83` |
+   | CRC32 | `3C91BD27` |
+   | SHA-1 | `ba73c972be2f42b925918b72ec31602bcf02321e` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**24-oct-2026 (v0.6.1)**
+- Combate: «PS» en las barras de vida y botón «INFO MOV.» (antes «HP» y «MOVE INFO»).
+- Nombres oficiales: «Nao Abandonada», «Malvalanova» y «Vía Subterránea».
 
 **24-oct-2026 (v0.6)**
 - Arreglado el bloqueo con sonidos raros al recibir un objeto en algunas casas (la de la Miltank tras Ciudad
