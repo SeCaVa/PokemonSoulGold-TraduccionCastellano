@@ -8,8 +8,9 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.5**), en desarrollo. Revisado en emulador: pantalla de inicio, intro, elección de
-personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, Guía, guardar y textos de combate.
+Versión de prueba (**v0.6**), en desarrollo. Revisado en emulador: pantalla de inicio, intro, elección de
+personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
+Guía, guardar y textos de combate.
 
 Puede haber frases que no encajen bien con su contexto, textos cortados o algún resto en inglés. Si encuentras
 alguno, abre un *issue* con una captura.
@@ -46,12 +47,26 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `DD7410C8` |
-   | SHA-1 | `ef64ff6cfa33cd377c211cdc07cd97ab3e9aada7` |
+   | CRC32 | `0D330D41` |
+   | SHA-1 | `1bf6a078c21f1985b622c22553aea70efe666b83` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**24-oct-2026 (v0.6)**
+- Arreglado el bloqueo con sonidos raros al recibir un objeto en algunas casas (la de la Miltank tras Ciudad
+  Cerezo y otras): el juego mostraba «Obtuvo ????????» sin parar.
+- Arreglados los fallos gráficos del Pokégear.
+- Datos del Pokémon en castellano: rótulos (PERFIL, HABILIDAD, NOTAS DEL EO, OBJETO, AMISTAD, DATOS, RASGOS,
+  INNATA, MOVIM., DESCRIPCIÓN), «Naturaleza Afable. Visto con Nv 5, en…», «Rasgos», «Ver IV/EV» y «Mote».
+- Iconos de tipo en castellano (PLA, NOR, LUC, VOL, FUE, AGU…) y de estado (ENV, DOR, CON, QUE, DEB).
+- «Nv» en lugar de «Lv» en todo el juego, «PS» en combate y «Objeto» en el equipo.
+- Información del movimiento en combate (CAT., POT., PRE.), «¡Nuevo trofeo!» y pantalla de trofeos.
+- Ficha de Entrenador: «Nombre:» y «N.º ID».
+- «Cristal» en lugar de «Crystal», también en los entrenadores del modo Difícil, que seguían en inglés.
+- «¡SeCaVa!» de Cristal al salir del laboratorio y cartel «Laboratorio del Prof. Elm».
+- La «p» y la «q» de las descripciones de habilidad ya no se salen del cuadro.
 
 **24-oct-2026 (v0.5)**
 - Cabecera del teclado de motes corregida: ahora pone «¿Mote de Sprigatito?».
