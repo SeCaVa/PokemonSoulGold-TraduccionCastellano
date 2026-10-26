@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.6.1**), en desarrollo. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.7**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,38 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `3C91BD27` |
-   | SHA-1 | `ba73c972be2f42b925918b72ec31602bcf02321e` |
+   | CRC32 | `8C9566F7` |
+   | SHA-1 | `493ccd322c372f4d3fac257b95bb994acb563f40` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**26-oct-2026 (v0.7)**
+- Actualizada a la versión 1.2.1 de SoulGold: textos nuevos traducidos (efectos activos del combate, búsqueda en
+  las Cajas, innatas nuevas, llamadas de Elm…).
+- Arreglado el cuelgue al poner mote a un Pokémon recién capturado.
+- Botones del teclado de nombres en castellano («otros», «BORRA / BOTÓN B», «FIN / START», «MAYÚS», «minús»).
+- Menús de Esmeralda que seguían en inglés: PC, Pokénav, marcas de los Pokémon, Pase del Frente, tragaperras,
+  concursos, Ficha de Kanto, chat de la Sala Unión y otros.
+- Derby: los motes de los corredores se traducen y ya no salen con basura.
+- Entrada de la Pokédex de Meganium, rival en Ciudad Olivo, Pirámide y Sierpe Batalla, Tactio y otros textos
+  que seguían en inglés.
+- Menú tras una captura («Unir al equipo») y ayuda de «Salir» en Ajustes, que se salían del cuadro.
+- Nombres de zona demasiado largos para el mapa acortados (p. ej. «Lab. Abandonado»).
+- Radio del Pokégear traducida entera (antes había frases en inglés o cortadas), blackjack, gritos de Pokémon y otros textos que seguían en inglés.
+- Signos «¡ !» en la radio (contraseña de Buena) y en los gritos de los Pokémon («¡Rat!», «¡Zig!»).
+- Iconos de estado en castellano en combate, en el equipo y en la ficha (ENV, PAR, DOR, CON, QUE, DEB).
+- Mochila: icono «MO» en las máquinas ocultas.
+- Pokédex: «PS» en los datos y el número de la MT ya no se sale del cuadro.
+- Combate: «…se han registrado en la Pokédex», «Velocidad de X bajó mucho», «Ataque y At. Esp.», y frases
+  largas como «quiere aprender el movimiento…» que se cortaban.
+- Pokédex: grupos huevo, condiciones de evolución y buscador (SELECT) en castellano.
+- DexNav y radio («SINTONÍA») traducidos.
+- Trofeos: arreglada la basura que salía junto a los trofeos conseguidos.
+- Pokédex: categorías en orden castellano («Pokémon Semilla»).
+- Ficha: información de habilidad sin basura y con las descripciones enteras; «EV»/«IV»; recordador de movimientos.
+- Combate: el cartel de habilidad ya no pone «Pidgeotto’s».
 
 **24-oct-2026 (v0.6.1)**
 - Combate: «PS» en las barras de vida y botón «INFO MOV.» (antes «HP» y «MOVE INFO»).
