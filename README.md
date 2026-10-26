@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.7**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.71**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,16 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `8C9566F7` |
-   | SHA-1 | `493ccd322c372f4d3fac257b95bb994acb563f40` |
+   | CRC32 | `B7CACF20` |
+   | SHA-1 | `ef741a28d22d254b9efce615faece61525093060` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**27-oct-2026 (v0.71)**
+- Arreglado el nombre por defecto «Amigo», que podía romper el juego al ser demasiado largo.
+- Nombres oficiales: Treto (Scott) y Maya (Dawn).
 
 **26-oct-2026 (v0.7)**
 - Actualizada a la versión 1.2.1 de SoulGold: textos nuevos traducidos (efectos activos del combate, búsqueda en
