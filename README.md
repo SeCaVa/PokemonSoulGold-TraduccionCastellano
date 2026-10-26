@@ -38,6 +38,8 @@ oficiales.
    | CRC32 | `1F1C08FB` |
    | SHA-1 | `f3ae088181bf583e55daf962a92bb46f4f1d07b7` |
 
+   Si el CRC32 no coincide (Esmeralda española, otra región o una ROM ya parcheada), el juego no funcionará bien.
+
 2. Descarga `Pokemon-SoulGold-Castellano.bps` de la [última versión](../../releases/latest) y aplícalo
    **directamente** sobre esa ROM con [Floating IPS](https://github.com/Alcaro/Flips),
    [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) o cualquier otra herramienta compatible con BPS.
