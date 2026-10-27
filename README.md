@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.71**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.72**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,21 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `B7CACF20` |
-   | SHA-1 | `ef741a28d22d254b9efce615faece61525093060` |
+   | CRC32 | `B2A0C6C2` |
+   | SHA-1 | `64c25b64a9aa6076d45f737ce9eb168d483c6527` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**27-oct-2026 (v0.72)**
+- Unos 80 textos de Esmeralda con la frase oficial en castellano.
+- Ficha de bayas: sabores en castellano y fila de dureza sin basura («DUR. / Blanda»).
+- Mapa del Pase del Frente, carteles «PULSA A», «META» y «PELIGRO» en castellano.
+- Decoraciones (muñecos) con sus nombres oficiales, y arreglados los datos de las decoraciones, los intercambios con
+  entrenadores y un minijuego, que leían de un sitio equivocado.
+- Arreglada la basura detrás de algunos efectos del combate, de condiciones de evolución de la Pokédex y de
+  «¿Cuántos…?».
 
 **27-oct-2026 (v0.71)**
 - Arreglado el nombre por defecto «Amigo», que podía romper el juego al ser demasiado largo.
