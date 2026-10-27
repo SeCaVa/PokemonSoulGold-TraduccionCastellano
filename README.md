@@ -101,7 +101,7 @@ Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 - Información del movimiento en combate (CAT., POT., PRE.), «¡Nuevo trofeo!» y pantalla de trofeos.
 - Ficha de Entrenador: «Nombre:» y «N.º ID».
 - «Cristal» en lugar de «Crystal», también en los entrenadores del modo Difícil, que seguían en inglés.
-- «¡SeCaVa!» de Cristal al salir del laboratorio y cartel «Laboratorio del Prof. Elm».
+- Frase de Cristal al salir del laboratorio y cartel «Laboratorio del Prof. Elm».
 - La «p» y la «q» de las descripciones de habilidad ya no se salen del cuadro.
 
 **24-oct-2026 (v0.5)**
