@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.72**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.73**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,20 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `B2A0C6C2` |
-   | SHA-1 | `64c25b64a9aa6076d45f737ce9eb168d483c6527` |
+   | CRC32 | `16F5B1DE` |
+   | SHA-1 | `9dd48082d138a02ab177ba0e84ed46fa16f46daf` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**29-oct-2026 (v0.73)**
+- Casino traducido: rótulos de la Lotería, el Derby de Trigal, el Pachinko, Beautifly, el Blackjack, Giravoltorb y
+  Block Builder, tienda de fichas y ventana de saldo («Fichas»).
+- Descripciones de habilidad de la pestaña RASGOS acortadas para que no se corten, y aviso de innata bloqueada en
+  castellano («Se desbloquea al nivel…»).
+- Símbolo de número «N.º» como en los juegos oficiales (Pokédex, ficha, MT).
+- «Los Claros Ocultos» y otros textos corregidos.
 
 **27-oct-2026 (v0.72)**
 - Unos 80 textos de Esmeralda con la frase oficial en castellano.
