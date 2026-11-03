@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.73**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.74**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,18 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `16F5B1DE` |
-   | SHA-1 | `9dd48082d138a02ab177ba0e84ed46fa16f46daf` |
+   | CRC32 | `A5F848C2` |
+   | SHA-1 | `d7b45d9e4a0a5052f626013a06b1fa2eea86401e` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**3-nov-2026 (v0.74)**
+- Nombres del clima en castellano en la Pokédex («Nv↑50, clima lluvia»).
+- Salto Pokémon con los rótulos oficiales de Esmeralda («EXCELENTE +500», «MUY BIEN +200»…).
+- Cartel del Santuario Dragón y una frase del mezclador de Pokécubos traducidos.
+- Rótulos en minúsculas como en el hack («Polvo de bayas», «Bofetón Lodo», «Bajo el agua») y frase oficial «El 2.º equipo está preparado».
 
 **29-oct-2026 (v0.73)**
 - Casino traducido: rótulos de la Lotería, el Derby de Trigal, el Pachinko, Beautifly, el Blackjack, Giravoltorb y
