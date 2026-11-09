@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.74**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.75**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,18 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `A5F848C2` |
-   | SHA-1 | `d7b45d9e4a0a5052f626013a06b1fa2eea86401e` |
+   | CRC32 | `83A3AB08` |
+   | SHA-1 | `08aabc5284ba0a41996736ca5e0afdaef4815e56` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**9-nov-2026 (v0.75)**
+- Siglas cortas en las estadísticas de la Pokédex (Atq, Def, AtE, DfE, Vel): ya no tapan los números.
+- Fondos de caja del PC traducidos (CORAZÓN, ALMA, DISTORSIÓN, GALAXIA…), «Pokécubo Dorado», «Llamar» en el teléfono y «Chat» en el Club Unión.
+- Textos que aún salían en inglés: «¡Todo ordenado!», «Anónimo» y «Han rechazado tu oferta».
+- Una descripción de la Pokédex que se salía de la caja, reajustada.
 
 **3-nov-2026 (v0.74)**
 - Nombres del clima en castellano en la Pokédex («Nv↑50, clima lluvia»).
