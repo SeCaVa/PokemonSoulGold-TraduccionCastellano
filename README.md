@@ -8,12 +8,12 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.75**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.76**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
 Puede haber frases que no encajen bien con su contexto, textos cortados o algún resto en inglés. Si encuentras
-alguno, abre un *issue* con una captura.
+alguno, [avísame con el formulario de fallos](../../issues/new?template=fallo.yml) y una captura.
 
 ## Qué está traducido
 
@@ -49,12 +49,16 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `83A3AB08` |
-   | SHA-1 | `08aabc5284ba0a41996736ca5e0afdaef4815e56` |
+   | CRC32 | `DDA05648` |
+   | SHA-1 | `32cbcfe7137faa836e8cdb49edd3a1e1505587da` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**9-nov-2026 (v0.76)**
+- La descripción del Polvo Brillo ya cabe entera en la Mochila.
+- Traducido el grito del Wooper del laboratorio del Prof. Elm.
 
 **9-nov-2026 (v0.75)**
 - Siglas cortas en las estadísticas de la Pokédex (Atq, Def, AtE, DfE, Vel): ya no tapan los números.
