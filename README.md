@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.76**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.77**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,22 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `DDA05648` |
-   | SHA-1 | `32cbcfe7137faa836e8cdb49edd3a1e1505587da` |
+   | CRC32 | `E6D3B112` |
+   | SHA-1 | `409c3cf2c0d53fb7255a953184d32cdaca3bf644` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**10-nov-2026 (v0.77)**
+- Nombres unificados en todo el juego: «Torre Campana», «Cascabel Claro» y «Cascabel Oleaje» (como en la Mochila), «Campo Abrasado»,
+  «Ases del Frente», «Monte Cimanieve» y «Pueblo Caoba» en el letrero de la Ruta 44.
+- Las frases de los entrenadores del Frente Batalla (Charla Fácil) vuelven a tener sentido: antes eran una ensalada de palabras.
+- Palabras que se partían con guion al saltar de línea en descripciones de objetos («paraliza-/dos», «Zigza-/Goon», «Smoo-/Chum»): ahora enteras.
+- Las llamadas del guardián Baoba por el Pokégear (apertura y ampliaciones de la Zona Safari) ya salen en castellano.
+- Máscaras (Fuente, Horno y Cimiento) y «Energía Potenciadora» con su nombre oficial en las descripciones, que seguían en inglés.
+- Erratas corregidas («asestan golpes críticos», «estimulado», «resplandeciente», «aumentar», «eléctrico», «estos», «del Claro Oculto»).
+- Más de 150 nombres de lugar en las listas, el mapa y el Pokénav con su mayúscula («Cueva Diglett», «Guarida Rocket», «Cámaras Sete», «Ciudad Portual»…) y «Dodrio a por bayas».
 
 **9-nov-2026 (v0.76)**
 - La descripción del Polvo Brillo ya cabe entera en la Mochila.
