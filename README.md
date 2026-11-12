@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.77**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.78**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,17 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `E6D3B112` |
-   | SHA-1 | `409c3cf2c0d53fb7255a953184d32cdaca3bf644` |
+   | CRC32 | `16FF2D30` |
+   | SHA-1 | `9a271e7186099f9a626bc2e94a73866c5115f8e2` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**12-nov-2026 (v0.78)**
+- Atenea, del Team Rocket, ya habla en castellano en el combate doble de la Torre Radio.
+- Traducidos los últimos textos sueltos en inglés: el compañero de Magno en el Centro Espacial, un Entrenador que te pregunta si eres de Johto,
+  dos nadadores de la Ruta 41, «Aliado» en combate y el aviso de emulador poco preciso.
 
 **10-nov-2026 (v0.77)**
 - Nombres unificados en todo el juego: «Torre Campana», «Cascabel Claro» y «Cascabel Oleaje» (como en la Mochila), «Campo Abrasado»,
