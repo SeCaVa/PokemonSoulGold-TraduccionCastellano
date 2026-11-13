@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.79**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.8**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,16 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `0AFDF2C1` |
-   | SHA-1 | `3022d822efcca45dae068c0453946f061e4497e9` |
+   | CRC32 | `4B643B3B` |
+   | SHA-1 | `ddc81a90fc1ef2a8e165b25199e1a730ca7abe19` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**13-nov-2026 (v0.8)**
+- El estuche de MT de la Mochila sale en castellano: TIPO, POTENC., PRECIS. y PP, y los tipos (AGUA, VOLAD., ACERO…),
+  redibujados con la letra del hack.
 
 **13-nov-2026 (v0.79)**
 - Unas 600 frases que en inglés son idénticas a las de HeartGold y SoulSilver usan ahora el texto oficial en castellano de esos juegos,
