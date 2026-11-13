@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.82**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.83**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,17 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `C5C7DE04` |
-   | SHA-1 | `3705c4ec09c1c14abcd193cb795fd5c4c2b7dfc2` |
+   | CRC32 | `8F476145` |
+   | SHA-1 | `e7bb31273379dcd50a98d7316e4d385092d84e0d` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**13-nov-2026 (v0.83)**
+- Menú de equipo: la barra de vida pone «PS» en vez de «HP» (estilos BN y HGSS).
+- Elegir equipo (Ruleta Rocket, combate junto a Lance): ya no quedan rayas tras «Primero», «Segundo» y «Tercero» en el estilo BN.
+- Ruleta Rocket: «Empezar» y título en castellano; también un rótulo de los cuadros del concurso y «Pulsa START para seguir.».
 
 **13-nov-2026 (v0.82)**
 - Recordador de movimientos: títulos cortos («Mov. Nivel», «Mov. Huevo», «Mov. MT», «Mov. Tutor») que ya no tapan las flechas.
