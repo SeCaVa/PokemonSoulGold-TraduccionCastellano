@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.81**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.82**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,17 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `53D31104` |
-   | SHA-1 | `d58bb903746b38dc07627e71b69c5dc286f8f60b` |
+   | CRC32 | `C5C7DE04` |
+   | SHA-1 | `3705c4ec09c1c14abcd193cb795fd5c4c2b7dfc2` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**13-nov-2026 (v0.82)**
+- Recordador de movimientos: títulos cortos («Mov. Nivel», «Mov. Huevo», «Mov. MT», «Mov. Tutor») que ya no tapan las flechas.
+- Mochila: ordenar objetos en castellano («¿Cómo ordenar?», «¡Ordenados por tipo!»).
+- Casino: la lista de premios ya no tapa la caja de fichas («Salir» cortado); ruleta, cintas y Pokécubos traducidos.
 
 **13-nov-2026 (v0.81)**
 - Pokédex, página de evoluciones: ya no sale texto basura detrás de «Macho» (Espurr) ni en otras condiciones
