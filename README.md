@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.85**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.86**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,15 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `2F3B335B` |
-   | SHA-1 | `04cc3fdd1e9072212e0b4d26f18c3ea8b95dc747` |
+   | CRC32 | `07784271` |
+   | SHA-1 | `7a1580241f26ef35bb8a61ae9cd32329ca846eef` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**14-nov-2026 (v0.86)**
+- Eclosión de un Huevo: ya no salen recuadros a los lados de la plataforma (también en la pantalla de intercambio).
 
 **14-nov-2026 (v0.85)**
 - Los carteles con el nombre del pueblo o la ruta ya no salen en verde y a rayas: vuelven a ser blancos con letras negras.
