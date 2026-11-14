@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.83**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.84**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,18 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `8F476145` |
-   | SHA-1 | `e7bb31273379dcd50a98d7316e4d385092d84e0d` |
+   | CRC32 | `A980CC43` |
+   | SHA-1 | `fc9a31233fd2a667865cc998964d149b36e41653` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**14-nov-2026 (v0.84)**
+- Combate: mensajes que no cabían con nombres largos, ahora en dos líneas (descongelarse, transformarse, Velo Sagrado, Conjuro, trampas de enredaderas, fuego y rocas, Safari).
+- Saludos «¡Bienvenido/a!» según el personaje (tiendas, centros, Ruleta Rocket) y Tactio «fantástico/a».
+- Interjecciones inglesas adaptadas (Bruno y otros) y unidades de la Pokédex en kg y m.
+- «¡El Pokémon logró escapar!» y otros textos con mayúscula inicial.
 
 **13-nov-2026 (v0.83)**
 - Menú de equipo: la barra de vida pone «PS» en vez de «HP» (estilos BN y HGSS).
