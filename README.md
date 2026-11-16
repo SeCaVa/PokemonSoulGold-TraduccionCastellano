@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.86**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.87**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,18 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `07784271` |
-   | SHA-1 | `7a1580241f26ef35bb8a61ae9cd32329ca846eef` |
+   | CRC32 | `AD9ADE93` |
+   | SHA-1 | `70ce02c1f8eb6bb14b7f5a6248f071a2d3c12a7b` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**16-nov-2026 (v0.87)**
+- Mapa de las bestias de Johto: «Fly» y «Map» pasan a «Volar» y «Mapa».
+- Pokédex, página de evolución: la evolución con Megapiedra ya no deja letras pintadas detrás del texto.
+- Derrota en combate: la primera línea del mensaje de la pantalla negra ya no sale cortada.
+- Marcador de la Frontera de Batalla («Victoria»), Pokédex («Descon.») y recuadro del Safari («Restantes:») en castellano.
 
 **14-nov-2026 (v0.86)**
 - Eclosión de un Huevo: ya no salen recuadros a los lados de la plataforma (también en la pantalla de intercambio).
