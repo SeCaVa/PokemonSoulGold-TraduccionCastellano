@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.87**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.88**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,16 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `AD9ADE93` |
-   | SHA-1 | `70ce02c1f8eb6bb14b7f5a6248f071a2d3c12a7b` |
+   | CRC32 | `149906FD` |
+   | SHA-1 | `61c092c7300a4545bc44f5da494ec60caa2233f5` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**16-nov-2026 (v0.88)**
+- Guarida Dragón, test del anciano: respuestas revisadas (oficiales de HeartGold y SoulSilver cuando coinciden) y «Pal» en castellano.
+- Salón de la Fama: bienvenida y felicitación completas, número de Pokédex, dificultad «Difícil» y «Defensa n.º» del título en castellano.
 
 **16-nov-2026 (v0.87)**
 - Mapa de las bestias de Johto: «Fly» y «Map» pasan a «Volar» y «Mapa».
