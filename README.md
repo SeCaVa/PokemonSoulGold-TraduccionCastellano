@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.89**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.9**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,15 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `D3F61B12` |
-   | SHA-1 | `c9026a825fbe17c1431a44f457e15c7050dc495d` |
+   | CRC32 | `5EE4E8BF` |
+   | SHA-1 | `139995705053ecef05703547a6245a892ad33094` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**19-nov-2026 (v0.9)**
+- «del Cascabel Claro» y «del Cascabel Oleaje» en los diálogos de las chicas Kimono (Ho-Oh y Lugia): ya no sale «de el».
 
 **19-nov-2026 (v0.89)**
 - Chistes y frases hechas revisados para que funcionen en castellano: el chiste de Lance y Dragonite en Ciudad Azulona, el espejo de Blancanieves, el saludo del Director del juego y la frase de Bai.
