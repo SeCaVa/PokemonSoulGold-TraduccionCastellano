@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.91**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.92**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,15 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `CC39864D` |
-   | SHA-1 | `acd5cbdeef55acb069f6dccd2f1d4736d7ede414` |
+   | CRC32 | `0B46F33D` |
+   | SHA-1 | `6a0a786878456cc9b5f2593384cd17d3deed9dc6` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**21-nov-2026 (v0.92)**
+- Corrección interna de un dato de sonido que una versión anterior había alterado sin querer. No cambia ningún texto.
 
 **20-nov-2026 (v0.91)**
 - Género de quien habla corregido en varios personajes (Débora, el intercambio de Ciudad Endrino, la experta en rutas de Costa Trigal, la Maestra de Movimientos Tutor y la Maestra de movimientos Huevo).
