@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.92**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.94**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,18 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `0B46F33D` |
-   | SHA-1 | `6a0a786878456cc9b5f2593384cd17d3deed9dc6` |
+   | CRC32 | `E9AFDA8F` |
+   | SHA-1 | `c0cef0520a40ed8a3565d313308e958aa8bbf1cc` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**22-nov-2026 (v0.94)**
+- Revisión de calidad de más de 160 textos: sexo de tu personaje en los diálogos, personajes femeninos que hablaban en masculino, nombres de lugares con sus mayúsculas oficiales, carteles de Kanto como en Rojo Fuego, revanchas de los Líderes, «Superdesafío» y «Superasalto» y los textos de las Fichas.
+- Saltos de línea revisados en unos 75 diálogos: sin palabras sueltas al final ni cortes detrás de «de», «que» o «pero».
+- Tienda: los objetos que ya tienes ponen «Tienes» en lugar de «Agotado», que tapaba el final de los nombres largos de MT.
+- Ampharos ya se ve bien de espaldas en combate.
 
 **21-nov-2026 (v0.92)**
 - Corrección interna de un dato de sonido que una versión anterior había alterado sin querer. No cambia ningún texto.
