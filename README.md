@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.97**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.98**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,18 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `E039B7FE` |
-   | SHA-1 | `4032aecee5df8b93aa08fd3020ee99081f16ae88` |
+   | CRC32 | `E81CC0A6` |
+   | SHA-1 | `17dcfc7d2f1a35f69c7d24cd191140e96bf37b8a` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**24-nov-2026 (v0.98)**
+- Megapiedras de tipo: la descripción dice ahora «Algunos Pokémon megaevolucionan a tipo …» para los 18 tipos.
+- Vitaminas: «Zinc Máx», «Hierro Máx», «Calcio Máx», «Proteína Máx», «Carburante Máx» y «Más PS Máx» (también en plural), en lugar de «EX».
+- Descripciones de movimientos: 157 se salían por la derecha de la ventana del tutor de movimientos. Ahora todas caben en dos líneas.
+- Textos de la cafetería corregidos con sus plurales.
 
 **24-nov-2026 (v0.97)**
 - Saltos de línea revisados en todo el juego: más de 3000 textos que cortaban mal (palabra suelta al final, línea que acababa en «el», «de», «que»…) repartidos de nuevo y, cuando no salía limpio, reescritos. Los textos oficiales de Esmeralda, Rojo Fuego y HeartGold/SoulSilver se quedan como el oficial.
