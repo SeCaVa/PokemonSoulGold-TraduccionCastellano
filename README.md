@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.95**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.97**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,18 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `D46BE4AD` |
-   | SHA-1 | `c0cef0520a40ed8a3565d313308e958aa8bbf1cc` |
+   | CRC32 | `E039B7FE` |
+   | SHA-1 | `4032aecee5df8b93aa08fd3020ee99081f16ae88` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**24-nov-2026 (v0.97)**
+- Saltos de línea revisados en todo el juego: más de 3000 textos que cortaban mal (palabra suelta al final, línea que acababa en «el», «de», «que»…) repartidos de nuevo y, cuando no salía limpio, reescritos. Los textos oficiales de Esmeralda, Rojo Fuego y HeartGold/SoulSilver se quedan como el oficial.
+- Seis cajas de texto que dejaban una palabra suelta al final de la página (MT Tormento, Torre Bellsprout, Chica Kimono, Magnetotrén, Dojo de Kanto y el regalo de la Ruta 32, ahora con su texto oficial de HeartGold/SoulSilver).
+- Lista de premios: «Has elegido este premio: …» en lugar de nombrar el objeto sin artículo.
+- Erratas sueltas, como «persiguí» en lugar de «perseguí».
 
 **23-nov-2026 (v0.95)**
 - Términos del juego con mayúscula como en HeartGold/SoulSilver: Entrenador, Baya, Medalla, y Gimnasio, Huevo y Líder cuando son términos del juego (más de 400 textos).
