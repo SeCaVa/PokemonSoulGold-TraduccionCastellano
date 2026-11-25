@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.98**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.99**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,17 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `E81CC0A6` |
-   | SHA-1 | `17dcfc7d2f1a35f69c7d24cd191140e96bf37b8a` |
+   | CRC32 | `719757DA` |
+   | SHA-1 | `326b1cb20db3a44132c1e474c721564b27c4d948` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**25-nov-2026 (v0.99)**
+- Trofeos: 35 nombres que se salían del aviso de trofeo, acortados para que se lean enteros (por ejemplo «Vigía del Arcoíris», «Pide un Deseo» o «Pokédex Avanzada»).
+- El aviso dice ahora «¡Trofeo!»: «¡Nuevo trofeo!» pisaba el contador de trofeos.
+- Tormenta Arena y Foco Resplandor, con el nombre de HeartGold/SoulSilver como el resto de movimientos.
 
 **24-nov-2026 (v0.98)**
 - Megapiedras de tipo: la descripción dice ahora «Algunos Pokémon megaevolucionan a tipo …» para los 18 tipos.

@@ -27,14 +27,14 @@ body:
     attributes:
       label: Versión de la traducción
       description: Sale en el nombre del parche o de la release que descargaste.
-      placeholder: "v0.98"
+      placeholder: "v0.99"
     validations:
       required: true
   - type: dropdown
     id: parcheo
     attributes:
       label: ¿Cómo aplicaste el parche?
-      description: "El parche va sobre Pokémon - Emerald Version (USA) (CRC32 1F1C08FB). La ROM resultante de la v0.98 tiene CRC32 E81CC0A6."
+      description: "El parche va sobre Pokémon - Emerald Version (USA) (CRC32 1F1C08FB). La ROM resultante de la v0.99 tiene CRC32 719757DA."
       options:
         - "Parcheador web de SeCaVa (secava.github.io/secava-parcheador)"
         - "Rom Patcher JS"
