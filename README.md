@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.991**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.992**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,17 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `EDAF90C0` |
-   | SHA-1 | `ae2c7e2e37d834ab69bb261cc2890a4661ee4bfd` |
+   | CRC32 | `5214343F` |
+   | SHA-1 | `0ad5e81ff5360d72f4a0475ee8e50dfda8a6fbde` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**25-nov-2026 (v0.992)**
+- Tienda del Salón Arcade de Ciudad Trigal: las vitaminas Máx vuelven a costar su precio. Solo la Chansey de tu cuarto las regala, junto con los Caramelos Raros.
+- Nombres de tienda que se montaban sobre el precio: «Manusc. Aguas» y «Manusc. Sombras» (Manuscrito Aguas y Manuscrito Sombras), «Genoma Iris» y «Armad. Auspiciosa» (Armadura Auspiciosa).
+- «la Df. Esp.» y «la Vía Subterránea» en los dos textos que decían «el».
 
 **25-nov-2026 (v0.991)**
 - Llamadas del Pokégear: cinco llamadas que se salían de la caja del teléfono (Atlas, el Prof. Elm, Treto y el Guarda Baoba) caben ya enteras.
