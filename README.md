@@ -8,7 +8,7 @@ al estilo de Oro HeartGold y Plata SoulSilver sobre Pokémon Esmeralda.
 
 ## Estado
 
-Versión de prueba (**v0.99**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
+Versión de prueba (**v0.991**), en desarrollo, sobre la versión **1.2.1** del hack. Revisado en emulador: pantalla de inicio, intro, elección de
 personaje, teclado de nombres, menú, Mochila, Opciones, Ficha de Entrenador, datos del Pokémon, equipo,
 Guía, guardar y textos de combate.
 
@@ -49,12 +49,16 @@ oficiales.
    | Dato | Valor |
    |---|---|
    | Tamaño | 32 MB |
-   | CRC32 | `719757DA` |
-   | SHA-1 | `326b1cb20db3a44132c1e474c721564b27c4d948` |
+   | CRC32 | `EDAF90C0` |
+   | SHA-1 | `ae2c7e2e37d834ab69bb261cc2890a4661ee4bfd` |
 
 Empieza partida nueva. No cargues estados guardados de la versión en inglés.
 
 ## Cambios
+
+**25-nov-2026 (v0.991)**
+- Llamadas del Pokégear: cinco llamadas que se salían de la caja del teléfono (Atlas, el Prof. Elm, Treto y el Guarda Baoba) caben ya enteras.
+- La Chansey de tu cuarto regala los Caramelos Raros y las seis vitaminas Máx (Más PS Máx, Proteína Máx, Hierro Máx, Calcio Máx, Zinc Máx y Carburante Máx). Los límites de nivel del juego siguen valiendo.
 
 **25-nov-2026 (v0.99)**
 - Trofeos: 35 nombres que se salían del aviso de trofeo, acortados para que se lean enteros (por ejemplo «Vigía del Arcoíris», «Pide un Deseo» o «Pokédex Avanzada»).
